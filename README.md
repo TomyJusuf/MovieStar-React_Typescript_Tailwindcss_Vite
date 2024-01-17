@@ -33,5 +33,8 @@ export default {
 
 Type in command: npm run dev
 
+![Peter Pan](src/assets/image.png)
+
 Created by Tomas Matusek
+
 # MovieStar-react

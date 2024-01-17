@@ -1,33 +1,28 @@
 # React + TypeScript + Tailwindcss + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- EN
 
-Currently, two official plugins are available:
+## Movie-Stars
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Task "MovieStars":
 
-## Expanding the ESLint configuration
+  The goal of this task is to set up a React project using Vite and Tailwind, incorporating ;various concepts such as hooks, props, components, onClick events, and array functions. The design should be responsive and implemented using Tailwind CSS. The application should display an overview of all MovieStars from a predefined array, with each MovieStar opening a modal upon clicking a button.
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+This task provides a comprehensive application of concepts learned so far in React. Ensure to write clear and structured code to ensure a well-maintained and functioning application.
 
-- Configure the top-level `parserOptions` property like this:
+## ![Peter Pan](src/assets/image.png)
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-};
-```
+---
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+- GE
+
+## Movie-Stars
+
+- Aufgabe "MovieStars":
+
+  Ziel dieser Aufgabe ist es, ein React-Projekt mit Vite und Tailwind aufzusetzen und dabei verschiedene Konzepte wie Hooks, Props, Components, onClick-Events und Array-Funktionen zu nutzen. Das Design soll responsive sein und mithilfe von Tailwind CSS umgesetzt werden. Die Anwendung soll eine Übersicht aller MovieStars aus einem vordefinierten Array anzeigen, wobei jedes MovieStar durch Klick auf einen Button ein Modal öffnet.
+
+Diese Aufgabe bietet eine umfassende Anwendung der bisher erlernten Konzepte in React. Achte darauf, klaren und strukturierten Code zu schreiben, um eine gut wartbare und funktionierende Anwendung zu gewährleisten.
 
 ## Run the project ?
 
@@ -35,6 +30,4 @@ Type in command: npm run dev
 
 ![Peter Pan](src/assets/image.png)
 
-Created by Tomas Matusek
-
-# MovieStar-react
+###Created by Tomas Matusek

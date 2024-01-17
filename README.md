@@ -30,4 +30,4 @@ Type in command: npm run dev
 
 ![Peter Pan](src/assets/image.png)
 
-###Created by Tomas Matusek
+#### Created by Tomas Matusek

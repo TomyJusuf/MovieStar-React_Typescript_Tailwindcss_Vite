@@ -5,5 +5,5 @@ export type MovieTypes = {
   age: number;
   height: number;
   gender?: string;
-  img: string;
+  img?: string;
 };

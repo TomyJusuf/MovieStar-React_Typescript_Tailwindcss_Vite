@@ -12,6 +12,7 @@ export const Anzeige = ({ onClose, data, id }: AnzeigeProps) => {
     console.error('ID is null');
     return null;
   }
+
   const idMovie: number = id - 1;
   const movieData: MovieTypes = data[idMovie];
 
